@@ -1,0 +1,6 @@
+{
+  "name": "Sinhala Swara & Chord Notation Studio",
+  "description": "Generate Sinhala swara notations (ස රි ග ම ප ධ නි), chords, and non-sheet-music instrument visual tabs for violin, piano, guitar, and flute from any song URL with instant transposition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
